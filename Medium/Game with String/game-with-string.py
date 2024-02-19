@@ -1,5 +1,4 @@
 #User function Template for python3
-
 class Solution:
     def minValue(self, s, k):
         # code here
@@ -20,9 +19,7 @@ class Solution:
         # print (d)
         for i in d:
             s = s + ( d[i] * d[i])
-        
         return s
-
 #{ 
  # Driver Code Starts
 #Initial Template for Python 3
